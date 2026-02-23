@@ -1,0 +1,11 @@
+case_id,date,year,case_type,case_text,judge,court,parties,verdict,sentence
+1,2026-01-15,2026,Civil,"Smith vs. Jones involves a dispute over a property line.",Judge A,State Court,Smith vs. Jones,Settled,"Property boundary adjusted"
+2,2026-01-20,2026,Criminal,"The People vs. Doe addresses charges of theft.",Judge B,District Court,The People vs. Doe,Guilty,"5 years probation"
+3,2026-02-01,2026,Civil,"Johnson vs. University is a case of discrimination.",Judge C,High Court,Johnson vs. University,Dismissed,"N/A"
+4,2026-02-05,2026,Criminal,"The State vs. Lee concerns drug possession.",Judge D,State Court,The State vs. Lee,Not Guilty,"N/A"
+5,2026-02-10,2026,Family,"Doe vs. Johnson involves custody of a child.",Judge E,District Court,Doe vs. Johnson,Settled,"Shared custody"
+6,2026-02-15,2026,Civil,"Brown vs. Green is about breach of contract.",Judge F,High Court,Brown vs. Green,Guilty,"$10,000 fine"
+7,2026-02-20,2026,Criminal,"The State vs. White is regarding assault.",Judge G,State Court,The State vs. White,Guilty,"2 years in prison"
+8,2026-02-21,2026,Civil,"King vs. Queen is a defamation lawsuit.",Judge H,District Court,King vs. Queen,Settled,"Reputation restored"
+9,2026-02-22,2026,Criminal,"The People vs. Black is a robbery case.",Judge I,High Court,The People vs. Black,Guilty,"5 years in prison"
+10,2026-02-23,2026,Civil,"Adams vs. Baker involves a noise complaint.",Judge J,State Court,Adams vs. Baker,Dismissed,"N/A"
